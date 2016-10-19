@@ -697,8 +697,7 @@ table.progress-bar {
 }
 
 .jenkins_ver:after {
-    margin-left: 15px;
-    content: 'afonsof.com/jenkins-material-theme v. 1.3.2';
+    display: none;
 }
 
 pre a {
