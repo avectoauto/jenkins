@@ -582,10 +582,7 @@ th.pane {
 }
 
 .bottom-sticker-inner {
-    margin: 0 0 0 -15px;
-    padding-left: 15px;
-    background: none repeat scroll 0 0 #fff !important;
-    box-shadow: 0 3px 8px 1px #fff;
+    display: none;
 }
 
 #projectstatus td, #projectstatus th {
