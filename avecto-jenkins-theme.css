@@ -599,7 +599,7 @@ th.pane {
 }
 
 #projectstatus .healthReportDetails table tbody tr:hover td, #projectstatus .healthReportDetails table tbody tr td {
-	background-color: #fff !important;
+	background-color: #0B4E9C !important;
 	color: #0B4E9C !important;
 }
 
@@ -719,7 +719,7 @@ pre a {
 			-webkit-filter: brightness(10000);
 			filter: brightness(10000);
 		}
-
+	  
 .comboBoxList {
 	color: #0B4E9C;
 }
