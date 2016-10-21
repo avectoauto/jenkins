@@ -599,7 +599,8 @@ th.pane {
 }
 
 #projectstatus .healthReportDetails table tbody tr:hover td, #projectstatus .healthReportDetails table tbody tr td {
-	background-color: #e9eded !important;
+	background-color: #fff !important;
+    border-color: #e9eded !important;
 	color: #0B4E9C !important;
 }
 
