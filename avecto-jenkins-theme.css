@@ -599,7 +599,7 @@ th.pane {
 }
 
 #projectstatus .healthReportDetails table tbody tr:hover td, #projectstatus .healthReportDetails table tbody tr td {
-	background-color: #e9eded !important;
+	background-color: #fff !important;
 	color: #0B4E9C !important;
 }
 
@@ -619,7 +619,7 @@ td.progress-bar-done {
 
 td.progress-bar-left {
 	border: 0 !important;
-	background-color: #e9eded !important;
+	background-color: #fff !important;
 }
 
 table.progress-bar {
