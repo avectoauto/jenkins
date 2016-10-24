@@ -618,8 +618,9 @@ td.progress-bar-done {
 }
 
 td.progress-bar-left {
-	border-color: #0B4E9C !important;
-	background-color: #fff !important;
+	border:solid;
+   border-color: #0B4E9C !important;
+	background-color: #dad8d8 !important;
 }
 
 table.progress-bar {
