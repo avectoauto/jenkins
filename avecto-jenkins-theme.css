@@ -582,7 +582,7 @@ th.pane {
 }
 
 #projectstatus td, #projectstatus th {
-	color: #444;
+	color: #e9eded;
 }
 
 	#projectstatus th a {
@@ -619,7 +619,7 @@ td.progress-bar-done {
 
 td.progress-bar-left {
 	border: 0 !important;
-	background-color: #fff !important;
+	background-color: hsla(0,0%,100%,.15) !important;
 }
 
 table.progress-bar {
